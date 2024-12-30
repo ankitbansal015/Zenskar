@@ -4,8 +4,8 @@ import requests
 from datetime import datetime
 
 # Constants
-API_KEY = 'sandbox_44qNrR5eULWSYkDQdha1Wx-1dHbFlElcxAKNaHODZlg'  # Replace with your API key
-ORG_ID = 'bca751e6-7758-4334-b4eb-618771ebcf6a'     # Replace with your Organization ID
+API_KEY = 'sandbox_44qNrR5eULWSYkDQdha1Wx-1dHbFlElcxAKNaHODZlg'
+ORG_ID = 'bca751e6-7758-4334-b4eb-618771ebcf6a'
 BASE_URL = 'https://api.zenskar.com/v2'
 
 # Function to authenticate with Zenskar API
