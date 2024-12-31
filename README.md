@@ -9,7 +9,7 @@ Install the Requests Library:
 
 Type the following command and press Enter: pip install requests
 Step 3: Prepare the Python Script
-Copy the zenskar.py script and paste it to your editor.
+Copy the script.py script and paste it to your editor.
 
 Replace API Credentials:
 
