@@ -25,4 +25,4 @@ directories. For example:cd path\to\your\script
 
 Run the Script:
 
-Type the following command and press Enter: python zenskar.py
+Type the following command and press Enter: python script.py
